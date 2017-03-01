@@ -1,0 +1,75 @@
+---
+layout: page
+title: Advance Your Career
+permalink: /career/
+---
+
+<!-- Career Start -->
+<section class="careerBanner">
+    <h1> {{ page.title }} </h1>
+</section>
+<section class="wrapper col-xs-12 bg-gray">
+    <!-- CONTENT -->
+    <div class="col-xs-12 bg-white wrapper ">
+        <div class="content-container">
+            <h2>Be Prepared for Opportunity</h2>
+            <p>
+                We advise individuals to contact us when they first consider other
+                opportunities. It is always better to be proactive than reactive. Securing a new position requires addressing important questions
+                such as;
+            </p>
+
+            <ul>
+                <li>Why do I want to make a change?</li>
+                <li>How do personal needs affect your decision making?</li>
+                <li>What do I do well?</li>
+                <li>What are my professional goals?</li>
+            </ul>
+
+            <p>
+                Kingston Dwight Associates can help you assess your situation and create a plan to evaluate possible
+                opportunities.
+            </p>
+            <ul>
+                <li>You just got your CPA designation; is it time to make a change?</li>
+                <li>You know it is time to build out your skill set but you are stuck in the same role?</li>
+                <li>Your prospects for advancement are blurry at best?</li>
+            </ul>
+        </div>
+    </div>
+
+    <!-- ACTION BANNER -->
+    <div class="action-banner col-xs-12 wrapper">
+        <p class="wrapper">
+            Start with an initial telephone conversation or make an appointment.
+            Creating a plan is an important step to advance your career.
+        </p>
+        <a href="{{ site.baseurl }}/resume"><button class="whiteBtn">Submit Resume</button></a>
+    </div>
+
+    <!-- CONTENT -->
+    <div class="col-xs-12 bg-white wrapper">
+        <div class="content-container">
+            <h2>Active Opportunities</h2>
+            <p>
+                A few select active searches:
+            </p>
+            <ul class="active-searches">
+                <!-- Sets the order to be the oldest posted first-->
+                {% assign jobs = site.jobs | sort: 'date' %}
+            {% for job in jobs reversed%}
+                <a href="{{ site.baseurl }}{{ job.url }}"><button>{{ job.title }}</button></a>
+            {% endfor %}
+            </ul>
+        </div>
+    </div>
+
+    <!-- ACTION BANNER -->
+    <div class="action-banner col-xs-12 wrapper">
+        <p class="wrapper">
+            If Relocation is a consideration in your Search Plan, we can help you!
+            Learn how our extensive network of contacts can access opportunity for you.
+        </p>
+        <a href="{{ site.baseurl }}/relocation-opportunities"><button class="whiteBtn">Relocation Opportunities</button></a>
+    </div>
+</section>

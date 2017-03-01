@@ -1,0 +1,95 @@
+
+exclude:
+  - "/vendor/"
+  - "Gemfile"
+  - "Gemfile.lock"
+  - "README.md"
+  - "LICENSE.md"
+  - "*.gemspec"
+
+keep_files:
+  - "CNAME"
+  - ".git"
+  - ".gitignore"
+
+
+# Site settings
+title: Kingston Dwight Associates
+subtitle: "The Jekyll-Forestry theme for Kingston Dwight Associates"
+# Base URL of site. It should always start with a slash,
+# and never end with a slash. Set it to a blank value if hosting at the
+# root of your server.
+# baseurl: "/" # the subpath of your site
+url: "http://muigaiunaka.github.io" # the base hostname & protocol for your site
+baseurl: "/kingstondwight"
+cover: "/assets/cover.png"
+logo: "/assets/logo.png"
+
+# Build settings
+markdown: kramdown
+
+# Google analytics
+# ga_tracking_id: "UA-XXXX-1"
+
+# Category descriptions (for archive pages)
+descriptions:
+  - cat: jekyll
+    desc: "Posts describing Jekyll setup techniques."
+
+  - cat: dummy
+    desc: "Just some placeholder posts, lorem ipsum and the rest."
+
+  - cat: team
+    desc: "Team member category"
+# Forestry Settings
+collections:
+  team:
+    output: true
+  testimonials:
+    output: true
+  jobs:
+    output: true
+
+defaults:
+  - scope:
+        path: ""
+        type: "posts"
+    values:
+        layout: "post"
+        thumbnail: ""
+        categories: []
+        description: ""
+  - scope:
+        path: ""
+        type: "pages"
+    values:
+        layout: "banner-and-content"
+        text: []
+        images: []
+        banner: "Action banner content message goes right here"
+        cta: "CTA for Banner"
+  - scope:
+      path: "team"
+      type: "team"
+    values:
+      layout: "team-post"
+      category: "team"
+      title: "John Smith"
+      position: "Head of HR"
+      email: "john123@kingstondwight.com"
+      image: /img/team/PortraitMike.png
+  - scope:
+        path: "testimonials"
+        type: "testimonials"
+    values:
+      title: "John Smith Testimonial"
+      author: "Michael Jackson"
+      position: "Universal Records Singer and Greatest Artist Ever"
+  - scope:
+        path: "jobs"
+        type: "jobs"
+    values:
+      layout: "jobs"
+      title: "Active Search"
+      email: "jhyde@kingstondwight.com"
+      banner: "Contact Joe Hyde, Partner, Kingston Dwight"
