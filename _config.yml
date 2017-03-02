@@ -21,7 +21,7 @@ subtitle: "The Jekyll-Forestry theme for Kingston Dwight Associates"
 # root of your server.
 # baseurl: "/" # the subpath of your site
 url: "http://kingstondwight.github.io" # the base hostname & protocol for your site
-baseurl: "/"
+baseurl: ""
 cover: "/assets/cover.png"
 logo: "/assets/logo.png"
 
