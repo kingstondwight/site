@@ -21,7 +21,7 @@ subtitle: "Kingston Dwight Associates"
 # root of your server.
 # baseurl: "/" # the subpath of your site
 url: "http://kingstondwight.com" # the base hostname & protocol for your site
-baseurl: ""
+baseurl: "http://kingstondwight.com"
 cover: "/assets/cover.png"
 logo: "/assets/logo.png"
 
