@@ -1,7 +1,7 @@
 ---
 layout: page
-text: []
-images: []
+text: 
+images: 
 banner: Action banner content message goes right here
 cta: CTA for Banner
 title: Dumby
