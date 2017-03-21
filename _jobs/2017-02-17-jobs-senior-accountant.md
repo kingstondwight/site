@@ -3,6 +3,7 @@ layout: jobs
 title: Senior Accountant
 email: jhyde@kingstondwight.com
 banner: Contact Joe Hyde, Partner, Kingston-Dwight Associates
+date: '2017-02-17T00:00:00.000+00:00'
 ---
 
 #### COMPANY:
