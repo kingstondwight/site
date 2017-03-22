@@ -648,13 +648,20 @@ img {
         padding-left: 15px;
         padding-right: 15px;
     }
-
+    
+    .homeBanner {
+        height: 320px;
+    }
 }
 
 @media (max-width: 1024px) and (orientation: portrait) {
     .wrapper {
         padding-left: 15px;
         padding-right: 15px;
+    }
+    
+    .homeBanner {
+        height: 320px;
     }
 }
 
@@ -673,7 +680,7 @@ img {
     }
 
     .homeBanner {
-        height: 360px;
+        height: 260px;
     }
 
     .hero-banner img {
@@ -728,7 +735,7 @@ img {
     }
 
     .homeBanner {
-        max-height: 360px;
+        max-height: 260px;
     }
 
     .logo {
