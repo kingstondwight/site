@@ -13,14 +13,20 @@ An innovator in the asset management industry augments its team to meet the comp
 
 Opportunity:
 
-* Assist with quarterly and annual SEC reporting requirements (including Form 10-Q / 10-K
+* Assist with quarterly and annual SEC reporting requirements (including Form 10-Q / 10-K)
+
 * Perform research of competitor practices and prepare ad hoc analysis for management
+
 * Assist with quarter end close responsibilities;
+
 * Participate in special projects and group business initiatives to better leverage technology et al.
 
 Qualifications:
 
 * Bachelor’s degree and 3 plus years’ experience with financial reporting
+
 * Must have public company reporting experience
+
 * Excellent project management and organizational skills are necessary
+
 * Knowledge of technologies: BPC, Workiva, SharePoint a plus
