@@ -3,7 +3,7 @@ layout: jobs
 title: Senior Auditor-Life Sciences
 email: jhyde@kingstondwight.com
 banner: Contact Joe Hyde, Partner, Kingston-Dwight Associates
-date: 2017-05-08 19:00
+date: '2017-05-08T16:01:50.747Z'
 ---
 COMPANY:
 
