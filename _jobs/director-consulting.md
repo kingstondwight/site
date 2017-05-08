@@ -4,7 +4,7 @@ thumbnail: ''
 categories: []
 description: ''
 title: Director Consulting
-date: '2017-05-08T12:05:00-04:00'
+date: '2017-05-08T12:06:00-04:00'
 author: Bart Simpson
 meta: Springfield
 email: jhyde@kingstondwight.com
