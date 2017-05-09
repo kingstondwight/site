@@ -1,6 +1,6 @@
 ---
 layout: jobs
-title: Senior Reporting
+title: Senior SEC Reporting Analyst
 email: jhyde@kingstondwight.com
 banner: Contact Joe Hyde, Partner, Kingston Dwight
 date: '2017-05-08T12:04:00-04:00'
