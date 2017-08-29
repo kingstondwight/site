@@ -3,7 +3,7 @@ layout: jobs
 title: Accounting Operations Manager
 email: jhyde@kingstondwight.com
 banner: Contact Joe Hyde, Partner, Kingston Dwight
-date: '2017-05-08T12:05:00-04:00'
+date: 2017-05-08 12:05:00 -0400
 ---
 
 
