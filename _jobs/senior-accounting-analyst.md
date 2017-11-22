@@ -3,7 +3,7 @@ layout: jobs
 title: Senior Accounting Analyst
 email: jhyde@kingstondwight.com
 banner: Contact Joe Hyde, Partner, Kingston Dwight
-date: 2017-11-22 09:25:59 +0000
+date: 2017-11-18 04:25:59 -0500
 ---
 
 **A publicly-held biopharmaceutical company devoted to developing and delivering transformative therapies to patients continues to build its accounting/ financial group.**
