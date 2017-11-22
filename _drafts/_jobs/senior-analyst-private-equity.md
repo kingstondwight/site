@@ -3,7 +3,7 @@ layout: jobs
 title: Senior Analyst-Private Equity
 email: jhyde@kingstondwight.com
 banner: Contact Joe Hyde, Partner, Kingston Dwight
-date: 2017-09-01 09:47:14 -0400
+date: 2017-11-19 09:47:14 -0500
 ---
 
 
