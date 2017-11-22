@@ -5,7 +5,7 @@ email: jhyde@kingstondwight.com
 banner: Contact Joe Hyde, Partner, Kingston Dwight
 date: 2017-11-22 09:33:16 +0000
 ---
- technology leader that creates and supports tools that tackle the complex process manufacturing challenges of its customers and helps them run the most complicated aspects of their business seeks to find a strategic financial planning professional to help them navigate their own business challenges.
+A technology leader that creates and supports tools that tackle the complex process manufacturing challenges of its customers and helps them run the most complicated aspects of their business seeks to find a strategic financial planning professional to help them navigate their own business challenges.
 
 The Financial Planning and Analysis Group is responsible for budgeting, forecasting and long term financial modeling and planning; periodic operational and financial reporting and analysis for all levels of the organization; business partnering with the C-suite and Board of Directors; and ad hoc analysis and reporting for a broad range of internal and external constituents.
 
