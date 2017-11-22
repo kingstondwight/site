@@ -5,8 +5,6 @@ email: jhyde@kingstondwight.com
 banner: Contact Joe Hyde, Partner, Kingston Dwight
 date: 2017-08-29 13:54:15 +0000
 ---
-
-
 Company
 
 Our client is a healthcare advisory firm. The company is seeking a Chief Financial Officer to be part of the executive team for a small (under $20 million in revenues) but growing firm.
