@@ -3,7 +3,7 @@ layout: jobs
 title: Senior Director Financial Planning & Analysis
 email: jhyde@kingstondwight.com
 banner: Contact Joe Hyde, Partner, Kingston Dwight
-date: 2017-11-22 09:33:16 +0000
+date: 2017-11-20 04:33:16 -0500
 ---
 A technology leader that creates and supports tools that tackle the complex process manufacturing challenges of its customers and helps them run the most complicated aspects of their business seeks to find a strategic financial planning professional to help them navigate their own business challenges.
 
