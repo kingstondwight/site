@@ -1,0 +1,39 @@
+---
+pages:
+- _jobs/chief-financial-officer.md
+- _jobs/controller.md
+- _jobs/fiscal-grant-manager.md
+- _jobs/senior-analyst-private-equity.md
+- _jobs/accountant-consolidations-and-international-accounting-1.md
+- _jobs/controller-1.md
+- _jobs/senior-reporting.md
+- _jobs/director-reporting.md
+- _jobs/2017-02-20-jobs-vpfa.md
+- _jobs/test-financial-analyst.md
+- _jobs/staff-accountant.md
+- _jobs/senior-accountant.md
+hide_body: false
+fields:
+- name: layout
+  default: jobs
+  label: Layout
+  type: text
+  hidden: false
+- name: title
+  default: Active Search
+  label: Title
+  type: text
+  hidden: false
+- name: email
+  default: jhyde@kingstondwight.com
+  label: Email
+  type: text
+  hidden: false
+- type: datetime
+  label: Date
+  name: date
+- name: banner
+  default: Contact Joe Hyde, Partner, Kingston Dwight
+  label: Banner
+  type: text
+  hidden: false

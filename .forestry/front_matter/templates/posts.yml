@@ -1,0 +1,29 @@
+---
+pages:
+- _jobs/director-consulting.md
+- _posts/2016-05-20-this-post-demonstrates-post-content-styles.md
+- _posts/2016-05-20-super-long-article.md
+- _posts/2016-05-20-my-example-post.md
+hide_body: false
+fields:
+- name: layout
+  default: post
+  label: Layout
+  type: text
+  hidden: false
+- name: title
+  default: Some articles are just so long they deserve a really long title to see
+    if things will break well
+  label: Title
+  type: text
+  hidden: false
+- name: categories
+  default: []
+  label: Categories
+  type: tag_list
+  hidden: false
+- name: description
+  default: ''
+  label: Description
+  type: text
+  hidden: false

@@ -1,0 +1,53 @@
+---
+pages:
+- career.html
+- team.html
+- talent-acquisition.html
+- retained-search.html
+- resume.html
+- relocation-opportunities.html
+- index.html
+- buildteam.html
+- 404.html
+hide_body: false
+fields:
+- name: layout
+  default: page
+  label: Layout
+  type: text
+  hidden: false
+- name: title
+  default: Page Cannot Be Found
+  label: Title
+  type: text
+  hidden: false
+- name: permalink
+  default: "/404.html"
+  label: Permalink
+  type: text
+  hidden: false
+- name: text
+  default: 
+  label: Text
+  type: list
+  hidden: false
+- name: images
+  default: 
+  label: Images
+  type: list
+  hidden: false
+- name: banner
+  default: Action banner content message goes right here
+  label: Banner
+  type: text
+  hidden: false
+- name: cta
+  default: CTA for Banner
+  label: Cta
+  type: text
+  hidden: false
+- name: date
+  default: 2017-03-21 00:00:00 +0000
+  label: Date
+  type: datetime
+  hidden: false
