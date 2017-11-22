@@ -5,8 +5,6 @@ email: jhyde@kingstondwight.com
 banner: Contact Joe Hyde, Partner, Kingston Dwight
 date: 2017-08-29 13:51:44 +0000
 ---
-
-
 COMPANY
 
 An entrepreneurial and diversified operating company that primarily focuses on consumer financing seeks to recruit a Controller. The company has built an established reputation by combining a strong assortment of products with outstanding client service support. Management believes this is a critical hire to build upon this foundation.
