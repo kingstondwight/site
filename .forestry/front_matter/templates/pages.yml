@@ -1,15 +1,6 @@
 ---
-pages:
-- career.html
-- team.html
-- talent-acquisition.html
-- retained-search.html
-- resume.html
-- relocation-opportunities.html
-- index.html
-- buildteam.html
-- 404.html
 hide_body: false
+is_partial: false
 fields:
 - name: layout
   default: page
@@ -51,3 +42,13 @@ fields:
   label: Date
   type: datetime
   hidden: false
+pages:
+- team.html
+- talent-acquisition.html
+- retained-search.html
+- resume.html
+- relocation-opportunities.html
+- index.html
+- career.html
+- buildteam.html
+- 404.html

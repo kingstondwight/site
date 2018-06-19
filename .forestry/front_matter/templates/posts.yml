@@ -1,10 +1,6 @@
 ---
-pages:
-- _jobs/director-consulting.md
-- _posts/2016-05-20-this-post-demonstrates-post-content-styles.md
-- _posts/2016-05-20-super-long-article.md
-- _posts/2016-05-20-my-example-post.md
 hide_body: false
+is_partial: false
 fields:
 - name: layout
   default: post
@@ -27,3 +23,8 @@ fields:
   label: Description
   type: text
   hidden: false
+pages:
+- _jobs/director-consulting.md
+- _posts/2016-05-20-my-example-post.md
+- _posts/2016-05-20-super-long-article.md
+- _posts/2016-05-20-this-post-demonstrates-post-content-styles.md
