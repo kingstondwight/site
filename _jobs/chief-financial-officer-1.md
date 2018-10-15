@@ -3,7 +3,8 @@ layout: jobs
 title: Chief Financial Officer
 email: jhyde@kingstondwight.com
 banner: Contact Joe Hyde, Partner, Kingston Dwight
-date: 2018-10-01 10:25:34 -0400
+date: 2018-10-15 10:25:34 -0400
+published: false
 
 ---
 Our client is a private equity sponsored technology product and services company. Reporting to the Chief Executive Officer, the Chief Financial Officer will be responsible for identifying financial strategies that will improve the bottom line as well as managing the financial risk of the company.  The CFO will have a great deal of involvement with the private equity sponsor in connection with acquisition growth initiatives as well as debt capital placement and related corporate finance activity. 
