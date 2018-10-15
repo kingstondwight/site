@@ -27,6 +27,7 @@ fields:
   type: text
   hidden: false
 pages:
+- _jobs/audit-manager.md
 - _jobs/senior-manager-external-reporting.md
 - _jobs/director-of-finance.md
 - _jobs/corporate-controller.md
