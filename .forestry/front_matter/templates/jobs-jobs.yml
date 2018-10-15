@@ -27,6 +27,7 @@ fields:
   type: text
   hidden: false
 pages:
+- _jobs/corporate-controller.md
 - _jobs/director-of-finance.md
 - _jobs/chief-financial-officer-1.md
 - _jobs/senior-director-financial-planning-analysis.md
