@@ -27,15 +27,6 @@ fields:
   type: text
   hidden: false
 pages:
-- _jobs/director-of-finance.md
-- _jobs/audit-manager.md
-- _jobs/accounting-manager.md
-- _jobs/attribution-analytics-manager.md
-- _jobs/senior-manager-external-reporting-and-compliance.md
-- _jobs/senior-it-auditor.md
-- _jobs/senior-accountant.md
-- _jobs/corporate-controller.md
-- _jobs/chief-financial-officer-1.md
 - _jobs/senior-director-financial-planning-analysis.md
 - _jobs/controller-1.md
 - _jobs/senior-accountant-university.md
