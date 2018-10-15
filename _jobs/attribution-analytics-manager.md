@@ -3,7 +3,8 @@ layout: jobs
 title: Attribution Analytics Manager
 email: jhyde@kingstondwight.com
 banner: Contact Joe Hyde, Partner, Kingston Dwight
-date: 2018-10-15 00:00:00 +0000
+date: 2018-10-15 10:28:00 -0400
+published: false
 
 ---
  Our client is a Boston-based investment manager that provides global equity investment strategies and products to institutional investors.  
