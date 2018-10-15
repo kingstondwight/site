@@ -3,10 +3,10 @@ layout: jobs
 title: Senior Analyst-Private Equity
 email: jhyde@kingstondwight.com
 banner: Contact Joe Hyde, Partner, Kingston Dwight
-date: 2017-11-19 09:47:14 -0500
+date: 2017-11-19 14:47:14 +0000
+published: false
+
 ---
-
-
 Company:
 
 Our client is a private equity firm that invests exclusively in the middle market industrial product and technology sectors. The firm’s “Platform Strategy” focuses on identifying appropriate Platform companies and building them to critical mass through consolidating acquisitions, acceleration of organic growth and strong management teams.
