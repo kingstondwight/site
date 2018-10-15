@@ -3,7 +3,7 @@ layout: jobs
 title: Director Of Finance
 email: jhyde@kingstondwight.com
 banner: Contact Joe Hyde, Partner, Kingston Dwight
-date: 2018-10-13 10:40:27 -0400
+date: 2018-10-15 10:27:00 -0400
 
 ---
 **Our client is a** global venture capital firm investing in life sciences, healthcare and technology. The Director of Finance will report to the CFO of the firm and will be responsible for various accounting and finance duties including;
