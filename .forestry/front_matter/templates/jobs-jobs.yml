@@ -27,6 +27,8 @@ fields:
   type: text
   hidden: false
 pages:
+- _jobs/senior-it-auditor.md
+- _jobs/senior-accountant.md
 - _jobs/attribution-analytics-manager.md
 - _jobs/director-of-finance.md
 - _jobs/corporate-controller.md
