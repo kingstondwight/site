@@ -27,6 +27,7 @@ fields:
   type: text
   hidden: false
 pages:
+- _jobs/senior-accountant-1.md
 - _jobs/senior-it-auditor.md
 - _jobs/audit-manager.md
 - _jobs/senior-manager-external-reporting.md
