@@ -4,6 +4,7 @@ title: Senior Manager - External Reporting and Compliance
 email: jhyde@kingstondwight.com
 banner: Contact Joe Hyde, Partner, Kingston Dwight
 date: 2018-10-15 00:00:00 +0000
+published: false
 
 ---
 Our client is striving to advance next-generation approaches to cancer immunotherapy. Their science has been well received and the Company is expanding headcount rapidly. The increased demands as a public company has created a need for an accounting professional with extensive public company reporting skills.
