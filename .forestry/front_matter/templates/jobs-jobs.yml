@@ -27,8 +27,8 @@ fields:
   type: text
   hidden: false
 pages:
-- _jobs/director-of-finance.md
 - _jobs/attribution-analytics-manager.md
+- _jobs/director-of-finance.md
 - _jobs/corporate-controller.md
 - _jobs/chief-financial-officer-1.md
 - _jobs/senior-director-financial-planning-analysis.md
