@@ -4,7 +4,6 @@ title: Senior Accountant
 email: jhyde@kingstondwight.com
 banner: Contact Joe Hyde, Partner, Kingston Dwight
 date: 2018-10-15 00:00:00 +0000
-published: false
 
 ---
 Our client is a leading full-service renewable energy company focused on solar project development and asset management. They act as project developer, finance provider, construction manager and owner/operator, with a mission to both build a more sustainable world and to provide superior returns to all project stakeholders, including public and private partners, and the local communities in which they work. 
