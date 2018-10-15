@@ -3,7 +3,7 @@ layout: jobs
 title: Senior Manager - External Reporting and Compliance
 email: jhyde@kingstondwight.com
 banner: Contact Joe Hyde, Partner, Kingston Dwight
-date: 2018-10-15 00:00:00 +0000
+date: 2018-10-15 10:31:00 -0400
 published: false
 
 ---
