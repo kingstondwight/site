@@ -6,11 +6,11 @@ banner: Contact Joe Hyde, Partner, Kingston Dwight
 date: 2018-10-09 10:32:00 -0400
 
 ---
-Our client is a  private equity backed medical products maker that plans to grow by introducing new products and making a few strategic acquisitions. 
+Our client is a  private equity backed medical products maker that plans to grow by introducing new products and making a few strategic acquisitions.
 
-This is a great chance for an Accounting Manager or Supervisor in a mid-sized company (over 100 mill) to join an ambituous private equity backed operating company. We will consider a Senior Accountant with supervisory experience.
+This is a great chance for an Accounting Manager or Supervisor in a mid-sized company (over 100 mill) to join an ambitious private equity backed operating company. We will consider a Senior Accountant with supervisory experience.
 
-The **Accounting Manager** is responsible for the day-to-day management of the Accounting team. The Manager has a team of two professionals and will be critical to developing and increasing the capacity of the overall financial team. The position will report to the Chief Financial Officer. 
+The **Accounting Manager** is responsible for the day-to-day management of the Accounting team. The Manager has a team of two professionals and will be critical to developing and increasing the capacity of the overall financial team. The position will report to the Chief Financial Officer.
 
 Specific duties include;
 
@@ -28,7 +28,7 @@ Specific duties include;
 
 **Qualifications**
 
-\* Bachelor’s Degree with a concentration in Accounting, Finance or Business; CPA is a plus 
+\* Bachelor’s Degree with a concentration in Accounting, Finance or Business; CPA is a plus
 
 \* 5  plus’ years of experience in accounting with a core competency in the **monthly closing process** is necessary.
 
@@ -38,5 +38,6 @@ Specific duties include;
 
 \* prior experience in a mid-sized operating company ($50-200 mill) is attractive.
 
-\* must have a "working manager" attitude and strong Excel skills..  
- * prior experience with an ERP system is required; prior experience "Qlik" is desirable.
+\* must have a "working manager" attitude and strong Excel skills..
+
+* prior experience with an ERP system is required; prior experience "Qlik" is desirable.
