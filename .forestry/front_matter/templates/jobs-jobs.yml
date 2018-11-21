@@ -27,6 +27,7 @@ fields:
   type: text
   hidden: false
 pages:
+- _jobs/assistant-controller.md
 - _jobs/financial-operations-controller.md
 - _jobs/investments-attribution-manager.md
 - _jobs/senior-accountant-1.md
