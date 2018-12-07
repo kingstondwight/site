@@ -44,12 +44,12 @@ fields:
   type: datetime
   hidden: false
 pages:
-- team.html
-- career.html
-- buildteam.html
-- talent-acquisition.html
-- retained-search.html
-- index.html
-- relocation-opportunities.html
 - 404.html
+- relocation-opportunities.html
+- index.html
+- talent-acquisition.html
+- buildteam.html
+- retained-search.html
+- career.html
+- team.html
 - resume.html
