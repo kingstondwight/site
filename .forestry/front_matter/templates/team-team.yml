@@ -33,3 +33,5 @@ fields:
   label: Image
   type: text
   hidden: false
+pages:
+- _team/ryan-kilday.md
