@@ -4,7 +4,7 @@ title: Jack Buckley
 position: Research Intern
 email:
 image: "/img/team/PortraitJack.png"
-date: ''
+date: '06-06-06'
 
 ---
 Wentworth Institute
