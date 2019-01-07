@@ -1,12 +1,10 @@
 ---
 layout: team-post
-category:
-- team
 title: Ryan Kilday
 position: Research Intern
-email: ''
+email:
 image: "/img/team/PortraitRyan.png"
-date: 2019-01-04 17:09:20 -0500
+date: ''
 
 ---
 Boston College
