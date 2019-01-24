@@ -3,7 +3,8 @@ layout: jobs
 title: Chief Financial Officer
 email: jhyde@kingstondwight.com
 banner: Contact Joe Hyde, Partner, Kingston Dwight
-date: 2019-01-24 01:18:00 -0500
+date: 2018-07-03 01:18:00 -0400
+published: false
 
 ---
 Chief Financial Officer
@@ -14,7 +15,7 @@ The responsibilities will extend beyond those of a traditional CFO. Reporting to
 
 **Responsibilities:**
 
-·         Supervises all staff and managers who oversee the accounting department,    finance department and real estate and facilities maintenance
+·         Supervises all staff and managers who oversee the accounting department,                                                          finance department and real estate and facilities maintenance
 
 ·         Responsible to continue to develop, review, and refine policies and procedures for the company along with keeping a strong vision of where the firm will be in the future
 
