@@ -27,9 +27,9 @@ fields:
   type: text
   hidden: false
 pages:
+- _jobs/audit-manager.md
 - _jobs/chief-financial-officer.md
 - _jobs/senior-accounting-analyst.md
-- _jobs/audit-manager.md
 - _jobs/investments-attribution-manager.md
 - _jobs/corporate-controller.md
 - _jobs/senior-manager-external-reporting.md
