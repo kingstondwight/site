@@ -3,7 +3,7 @@ layout: jobs
 title: Audit Manager
 email: jhyde@kingstondwight.com
 banner: Contact Joe Hyde, Partner, Kingston Dwight
-date: 2018-10-10 13:48:45 -0400
+date: 2019-01-24 01:01:00 -0500
 
 ---
 Our client is a life science leader in neuroscience and a global pharmaceutical company. This is a great opportunity for a talented **AUDIT professional** that enjoys using their talents in a complicated business enterprise and believes gaining global experience is a valuable career experience.
