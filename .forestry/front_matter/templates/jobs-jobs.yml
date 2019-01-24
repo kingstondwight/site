@@ -27,6 +27,7 @@ fields:
   type: text
   hidden: false
 pages:
+- _jobs/chief-financial-officer-2.md
 - _jobs/audit-manager.md
 - _jobs/senior-manager-external-reporting.md
 - _jobs/assistant-controller.md
