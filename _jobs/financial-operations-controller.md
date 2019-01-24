@@ -3,7 +3,7 @@ layout: jobs
 title: Financial Operations Controller
 email: jhyde@kingstondwight.com
 banner: Contact Joe Hyde, Partner, Kingston Dwight
-date: 2018-10-12 00:00:00 -0400
+date: 2019-01-24 01:05:00 -0500
 
 ---
 **Financial Operations Controller**
