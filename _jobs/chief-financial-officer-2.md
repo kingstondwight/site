@@ -3,7 +3,7 @@ layout: jobs
 title: Chief Financial Officer
 email: jhyde@kingstondwight.com
 banner: Contact Joe Hyde, Partner, Kingston Dwight
-date: 2018-07-03 01:18:00 -0400
+date: 2019-01-25 02:25:00 -0500
 published: false
 
 ---
