@@ -3,8 +3,7 @@ layout: jobs
 title: Corporate Controller
 email: jhyde@kingstondwight.com
 banner: Contact Joe Hyde, Partner, Kingston Dwight
-date: 2019-01-24 13:12:00 -0500
-published: false
+date: 2019-01-25 01:20:00 -0500
 
 ---
 Our client is a publicly-traded product and services provider located in Southern New Hampshire The Corporate Controller ensures that all corporate financial statements are prepared timely and in accordance with US GAAP and that the Company maintains compliance with all regulatory (SEC and other) reporting requirements. This role also assures that Company processes are performed in compliance with applicable Sarbanes-Oxley controls.
