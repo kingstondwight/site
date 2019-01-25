@@ -4,7 +4,6 @@ title: Senior IT Auditor
 email: jhyde@kingstondwight.com
 banner: Contact Joe Hyde, Partner, Kingston Dwight
 date: 2019-01-24 00:59:00 -0500
-published: false
 
 ---
 A leading provider of technology solutions located in Burlington,Ma is looking to strengthen and expand the capacity of its Audit function.  
