@@ -1,7 +1,6 @@
 ---
 label: pages
 hide_body: false
-is_partial: false
 fields:
 - name: layout
   default: page
@@ -39,17 +38,17 @@ fields:
   type: text
   hidden: false
 - name: date
-  default: 2017-03-21 00:00:00 +0000
+  default: '2017-03-21T00:00:00.000+00:00'
   label: Date
   type: datetime
   hidden: false
 pages:
-- 404.html
-- relocation-opportunities.html
-- index.html
-- talent-acquisition.html
-- buildteam.html
-- retained-search.html
-- career.html
-- team.html
 - resume.html
+- team.html
+- career.html
+- retained-search.html
+- buildteam.html
+- talent-acquisition.html
+- index.html
+- relocation-opportunities.html
+- 404.html

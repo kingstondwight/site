@@ -1,7 +1,6 @@
 ---
 label: team-team
 hide_body: false
-is_partial: false
 fields:
 - name: layout
   default: team-post
@@ -33,3 +32,5 @@ fields:
   label: Image
   type: text
   hidden: false
+pages:
+- _team/maria-alpede.md
