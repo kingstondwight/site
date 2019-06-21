@@ -32,3 +32,5 @@ fields:
   label: Image
   type: text
   hidden: false
+pages:
+- _team/maria-alpede.md
