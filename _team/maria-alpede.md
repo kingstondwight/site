@@ -4,7 +4,7 @@ category:
 - team
 title: Maria Alpede
 position: Research Intern
-email: ''
+email: resumes@kingstondwight.com
 image: "/img/team/PortraitMaria.png"
 
 ---
