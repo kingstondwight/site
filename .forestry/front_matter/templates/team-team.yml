@@ -32,5 +32,15 @@ fields:
   label: Image
   type: text
   hidden: false
+- name: date
+  type: datetime
+  label: Date
+  description: ''
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
+  hidden: false
 pages:
 - _team/2019-06-21-team-member-maria.md
