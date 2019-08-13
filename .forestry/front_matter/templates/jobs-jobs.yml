@@ -25,3 +25,5 @@ fields:
   label: Banner
   type: text
   hidden: false
+pages:
+- _jobs/senior-accountant.md
