@@ -3,7 +3,7 @@ layout: jobs
 title: Assistant Controller
 email: jhyde@kingstondwight.com
 banner: Contact Joe Hyde, Partner, Kingston Dwight
-date: 2019-01-25 01:15:44 -0500
+date: 2019-01-25T06:15:44.000+00:00
 
 ---
 Assistant Controller
