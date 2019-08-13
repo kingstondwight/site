@@ -25,22 +25,3 @@ fields:
   label: Banner
   type: text
   hidden: false
-pages:
-- _jobs/assistant-controller.md
-- _jobs/chief-financial-officer-2.md
-- _jobs/audit-manager.md
-- _jobs/senior-manager-external-reporting.md
-- _jobs/corporate-controller.md
-- _jobs/director-of-finance.md
-- _jobs/senior-accountant-university.md
-- _jobs/senior-director-financial-planning-analysis.md
-- _jobs/chief-financial-officer.md
-- _jobs/senior-analyst-private-equity.md
-- _jobs/financial-operations-controller.md
-- _jobs/senior-accountant-1.md
-- _jobs/chief-financial-officer-1.md
-- _jobs/technical-accounting-practice-lead.md
-- _jobs/investments-attribution-manager.md
-- _jobs/senior-accounting-analyst.md
-- _jobs/controller-1.md
-- _jobs/senior-it-auditor.md
