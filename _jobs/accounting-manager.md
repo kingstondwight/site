@@ -3,7 +3,8 @@ layout: jobs
 title: Accounting Manager
 email: jhyde@kingstondwight.com
 banner: Contact Joe Hyde, Partner, Kingston Dwight
-date: 2019-01-24 13:00:00 -0500
+date: 2019-01-24T18:00:00.000+00:00
+published: false
 
 ---
 Our client is a  private equity backed medical products maker that plans to grow by introducing new products and making a few strategic acquisitions.
