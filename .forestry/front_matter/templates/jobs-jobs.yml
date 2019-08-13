@@ -26,5 +26,6 @@ fields:
   type: text
   hidden: false
 pages:
-- _jobs/senior-accountant.md
+- _jobs/technical-accounting-manager.md
 - _jobs/financial-analyst.md
+- _jobs/senior-accountant.md
