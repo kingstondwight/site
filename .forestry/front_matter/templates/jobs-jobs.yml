@@ -26,7 +26,6 @@ fields:
   type: text
   hidden: false
 pages:
-- _jobs/senior-financial-analyst-1.md
 - _jobs/cpa-alternative-investments.md
 - _jobs/senior-accountant.md
 - _jobs/business-unit-controller.md
