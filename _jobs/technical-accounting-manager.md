@@ -3,8 +3,7 @@ layout: jobs
 title: Technical Accounting Manager
 email: jhyde@kingstondwight.com
 banner: Contact Joe Hyde, Partner, Kingston Dwight
-date: 2019-08-13 15:10:00 -0400
-published: false
+date: 2019-08-14 12:15:00 -0400
 
 ---
 # **_Manager of Technical Accounting_**
