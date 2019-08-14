@@ -3,8 +3,7 @@ layout: jobs
 title: CPA-Alternative Investments
 email: jhyde@kingstondwight.com
 banner: Contact Joe Hyde, Partner, Kingston Dwight
-date: 2019-08-14 00:00:00 -0400
-published: false
+date: 2019-08-14 12:19:00 -0400
 
 ---
 **_CPA – Alternative Investments_**
