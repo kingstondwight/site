@@ -3,8 +3,7 @@ layout: jobs
 title: Assistant Controller - Biotech
 email: jhyde@kingstondwight.com
 banner: Contact Joe Hyde, Partner, Kingston Dwight
-date: 2019-08-13 15:40:00 -0400
-published: false
+date: 2019-08-14 12:36:00 -0400
 
 ---
 # **Assistant Controller - Biotech**
