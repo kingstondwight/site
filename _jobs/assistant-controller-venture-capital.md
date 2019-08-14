@@ -4,7 +4,6 @@ title: Assistant Controller - Venture Capital
 email: jhyde@kingstondwight.com
 banner: Contact Joe Hyde, Partner, Kingston Dwight
 date: 2019-08-14 12:29:00 -0400
-published: false
 
 ---
 # **Assistant Controller/ Metro DC**
