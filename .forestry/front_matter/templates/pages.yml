@@ -43,6 +43,7 @@ fields:
   type: datetime
   hidden: false
 pages:
+- _jobs/business-unit-controller.md
 - career.html
 - team.html
 - talent-acquisition.html
