@@ -26,6 +26,7 @@ fields:
   type: text
   hidden: false
 pages:
+- _jobs/senior-financial-analyst.md
 - _jobs/financial-analyst.md
 - _jobs/cpa-alternative-investments.md
 - _jobs/senior-international-auditor.md
@@ -33,6 +34,5 @@ pages:
 - _jobs/senior-accountant.md
 - _jobs/business-unit-controller.md
 - _jobs/chief-financial-officer.md
-- _jobs/senior-financial-analyst.md
 - _jobs/assistant-controller-biotech.md
 - _jobs/assistant-controller-venture-capital.md
