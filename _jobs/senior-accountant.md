@@ -9,8 +9,6 @@ published: false
 ---
 **Senior Accountant**
 
-![---](file:///C:\\Users\\Joe\\AppData\\Local\\Temp\\msohtmlclip1\\01\\clip_image001.gif =641x6)
-
 Our client is a highly profitable specialty reinsurance business located in downtown Boston that is an operating business within a large public company. The Finance team is looking for a talented and experienced financial professional who will provide accounting, reporting and analytical support to the business unit.
 
 RESPONSIBILITIES include
