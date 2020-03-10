@@ -4,7 +4,6 @@ title: Assistant Controller
 email: jhyde@kingstondwight.com
 banner: Contact Joe Hyde, Partner, Kingston Dwight
 date: 2020-03-10 01:00:00 -0400
-published: false
 
 ---
 Assistant Controller- Medical Products
