@@ -1,6 +1,6 @@
 ---
 layout: jobs
-title: Assistant Controller
+title: Assistant Controller- Industrial Products
 email: jhyde@kingstondwight.com
 banner: Contact Joe Hyde, Partner, Kingston Dwight
 date: 2020-03-10 00:30:00 -0400
