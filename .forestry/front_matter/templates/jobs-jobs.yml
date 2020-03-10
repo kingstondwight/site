@@ -26,11 +26,5 @@ fields:
   type: text
   hidden: false
 pages:
-- _jobs/business-unit-controller.md
-- _jobs/chief-financial-officer.md
-- _jobs/cpa-alternative-investments.md
-- _jobs/financial-analyst.md
 - _jobs/senior-accountant-1.md
-- _jobs/senior-accountant.md
-- _jobs/senior-international-auditor.md
 - _jobs/senior-manager-it.md
