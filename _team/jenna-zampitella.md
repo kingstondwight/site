@@ -5,9 +5,8 @@ category:
 title: 'Jenna Zampitella '
 position: 'Research Associate '
 email: resumes@kingstondwight.com
-image: ''
+image: Zamitella, Jenna 01_web.jpg
 date: 2020-03-16 00:00:00 -0400
-published: false
 
 ---
 ![](/uploads/2020/03/16/Zamitella, Jenna 01_web.jpg)
