@@ -42,3 +42,5 @@ fields:
     time_format: 
     display_utc: false
   hidden: false
+pages:
+- _team/jenna-zampitella.md
