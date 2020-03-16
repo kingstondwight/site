@@ -7,6 +7,7 @@ position: 'Research Associate '
 email: resumes@kingstondwight.com
 image: ''
 date: 2020-03-16 00:00:00 -0400
+published: false
 
 ---
 ![](/uploads/2020/03/16/Zamitella, Jenna 01_web.jpg)
