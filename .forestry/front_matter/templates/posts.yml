@@ -24,6 +24,7 @@ fields:
   type: text
   hidden: false
 pages:
+- _jobs/manager-external-reporting.md
 - _posts/2016-05-20-my-example-post.md
 - _posts/2016-05-20-super-long-article.md
 - _posts/2016-05-20-this-post-demonstrates-post-content-styles.md
