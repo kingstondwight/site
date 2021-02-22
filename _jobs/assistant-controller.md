@@ -1,55 +1,41 @@
 ---
 layout: jobs
-title: Assistant Controller- Industrial Products
+title: Controller- Biotech
 email: jhyde@kingstondwight.com
 banner: Contact Joe Hyde, Partner, Kingston Dwight
-date: 2020-03-10 00:30:00 -0400
+date: 2020-03-10T00:30:00.000-04:00
 
 ---
-Assistant Controller-Industrial Products
+                                          **Controller**
 
-Our client is a global acquisitions driven multi-entity operating company with worldwide locations and aspirations to be a billion dollar company in the near term.
+Our client is a biotechnology company created with a singular focus; to develop transformative therapies for coronary heart disease. The Company is developing medicines that may safely edit the genome of adults to permanently lower LDL cholesterol and triglyceride levels and thereby treat coronary heart disease. Founded by world-leading experts in cardiovascular medicine, human genetics, and gene editing, the Company also has the financial support of top-tier investors.
 
-**Responsibilities include:**
+**Opportunity:**
 
-This role will report to the Corporate Controller and play a significant role in coordinating activities within the corporate finance group and the worldwide accounting teams.
+The Financial Controller will lead and manage the accounting/finance operations. Reporting to the Head of Finance, this is an opportunity to contribute significantly to a rapidly growing, privately-held biotechnology company. The ideal candidate is a driven individual looking to work in a fast-paced, dynamic, biotech start-up environment, leveraging a high degree of problem-solving and troubleshooting skills to make a large impact on our mission.
 
-· Manage the corporate finance group and develop the team.
+**Responsibilities:**
 
-· Maintain a well-controlled SOX environment in the corporate finance group and work with Internal Audit in the execution of the worldwide SOX compliance program.
+* Lead the accounting operations of the company including maintaining an adequate system of accounting records/policies and a comprehensive set of controls designed to mitigate risk and enhance the accuracy of the company’s reported financial results.
+* Ensure that the company’s accounting procedures and reported results confirm generally accepted accounting principles (GAAP).
 
-· Coordinate quarter- and year-end close with subsidiaries, internal departments, and external auditors.
 
-· Manage the quarterly closing and complex consolidation process with a focus on continuous improvement.
+* Prepare monthly, quarterly, and year-end financial statements and monthly reconciliations of all balance sheet accounts.
+* Interface with financial institutions, external auditors, and advisors
+* Oversee the independent valuation and year-end independent financial statement audit.
+* Oversee purchasing to payables process and provide sound financial guidance to company personnel on procurement decisions and contract negotiations
+* Oversee financial aspects of payroll and benefits
+* As required, take lead on preparing and readying the organization for SEC standards, including reporting, compliance, and implementation of Sarbanes Oxley.
+* Manage the company’s tax reporting and state filing requirements.
+* Manage the company’s corporate insurance policies.
+* Manage the company’s cash-flow, including bank accounts and investments.
+* Design & lead ERP system implementation
 
-· Assist with press releases, investor call presentations, and SEC filings.
+**Experience:**
 
-· Oversee the preparation of the annual budget and quarterly forecasts.
-
-· Assist with modifications to the finance department consolidation software – prior experience with Oracle’s HFM a plus.
-
-· Assist with accounting for corporate transactions and strategic initiatives, including acquisition integration.
-
-· Prepare executive level presentations and analysis.
-
-· Write and/or review draft technical memoranda to present a strategy on proposed transactions or on new accounting pronouncements that may impact the company.
-
-· Establish and maintain corporate accounting policies, procedures, and SOX processes.
-
-· Provide technical accounting advice to worldwide finance personnel.
-
-**Qualifications:**
-
-· Master’s degree in Accounting or Finance;
-
-· Currently licensed certified public accountant (CPA) is a must;
-
-· Big 4 or top tier national public accounting experience is strongly preferred;
-
-· 10 plus years’ experience in corporate and/or general accounting, including international reporting experience and recent public company experience is required;
-
-· High proficiency in Excel and PowerPoint is necessary;
-
-· Advanced understanding of Generally Accepted Accounting Principles (GAAP) and the ability to apply GAAP to new and existing transactions including; experience with complex consolidations, involving multiple sub-consolidations and a deep understanding of foreign currency translation and transactions is critical;
-
-· Demonstrated consistency, flexibility, commitment to meeting deadlines, attention to detail and a commitment to continuous improvement.
+* Minimum 10+ years’ experience in corporate and/or general accounting including both private and public company experience as the controller; experience managing public offerings either from within the company or during accounting firm experience is required.
+* Prior experience in the biotechnology industry and R&D contract accounting is preferred
+* Big 4 Public Accounting and US GAAP experience preferred.
+* Ability to implement and research new and emerging accounting trends, as applicable.
+* Experience developing reporting and analytics capabilities.
+* Collaborative business partner adept in building cross-functional relationships to drive business results and process improvement.
