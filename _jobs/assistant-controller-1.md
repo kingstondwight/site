@@ -1,40 +1,40 @@
 ---
 layout: jobs
-title: Assistant Controller- Medical Products
+title: Assistant Controller
 email: jhyde@kingstondwight.com
 banner: Contact Joe Hyde, Partner, Kingston Dwight
-date: 2020-03-10 01:00:00 -0400
+date: 2020-03-10T01:00:00.000-04:00
 
 ---
-Assistant Controller- Medical Products
+                                    Assistant Controller
 
-  
- Our client is an fast growing medical products company, with the goal of providing life changing technology to those in need.
+Our client is a growing software firm with a platform that operates across multiple industries and seeks to improve a user’s customer experience. The Company is over 200 million in revenues and seeks to continue to grow both organically and through acquisitions.
 
-This role reports directly to the Controller and will leverage the talents of a professional who is looking to advance their career as a Financial Manager.
+The Company values diversity, equity, and inclusion. They are committed to creating an environment where everyone can thrive. Through various internal initiatives, the Company is building the cultural foundation that provides people the emotional and physical space to express themselves professionally.
 
-**Responsibilities include:**
+The Assistant Controller is part of the Controller’s team. The position will oversee Revenue, Accounting Operations, and Corporate Functions, including the monthly close process end-to-end. The selected individual must be a hands-on Manager that develops team members, manages day-to-day accounting activities, establishes new processes, improves existing processes, and helps the team build a scalable organization. The selected candidate must also be an advocate for automation, process improvement, performance metrics, transparency, and teamwork.
 
-_This role requires a broad base accounting and reporting skills. Areas of involvement include SEC Reporting, oversight of the accounting teams activities and working with the Company's external relationships (bankers; insurance professionals and public accounting advisors)._
+**Responsibilities:**
 
-· -Monitoring and working directly on the month end close, budget analysis, and annual audit preparation.
-
-· -Responsible for overseeing the daily activities of the accounting team.
-
-· -Prepare the monthly cash flow statement, as well as the quarter end board and committee reports.
-
-· -Oversee annual financial statement audit and semi-annual compliance audit.
-
-· -Participate in company-wide forecasting.
+* Provide leadership, mentor, and develop team members, focusing on superior performance, career pathways, and succession planning.
+* Oversee the monthly close process, including coordinating with teams that have dependencies on the close calendar
+* Partner with cross-functional teams to identify how strategic business and product changes impact accounting
+* Work with the Finance team to automate the accounting close process wherever possible
+* Assist in the formulation of internal controls and policies to comply with established best practices
+* Bring your Technical Accounting expertise to drive reporting and policy-based projects and documentation
+* Develop a culture of mentorship, continuous improvement, training, and success in the accounting organization
+* Support external audit requirements related to specific areas of responsibility
 
 **Qualifications:**
 
-· **Bachelor's degree in Accounting (MBA is highly valued); CPA Required.**
-
-· **8 plus years of progressive experience in public accounting; experience in a publicly traded companies is required.**
-
-· **Desired experience includes demonstrated managerial skills; involvement with business operations and public company reporting capabilities.**
-
-· **Prior involvement with the COSO Framework and Sarbanes-Oxley is necessary.**
-
-· **Experience with business technologies such as Epicor and Host Analytics would be a plus.**
+* 12+ years of total experience with escalating levels of responsibility, including people management
+* Experience in either a SaaS or Technology company selling subscriptions or recurring-revenue business is required.
+* Bachelor’s degree in Accounting or Finance
+* CPA is required; MBA preferred.
+* Experience in helping drive toward IPO readiness
+* Strong understanding of technical accounting issues, especially with regard to revenue recognition
+* Demonstrated strong leadership skills, high energy, initiative and creativity - with a proven ability to manage significant initiatives across the organization, as well as develop and motivate staff
+* Ability to assess and implement technology to automate and control numerous accounting processes
+* Excellent knowledge of US GAAP, internal controls and managing a quarter-end close and reporting process. SEC reporting experience a plus.
+* Knowledge of finance, accounting, budgeting, and advanced analytical and quantitative skills.
+* Systems experience, NetSuite experience a plus.
