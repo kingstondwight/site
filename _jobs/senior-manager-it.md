@@ -3,7 +3,7 @@ layout: jobs
 title: Senior Manager IT
 email: jhyde@kingstondwight.com
 banner: Contact Joe Hyde, Partner, Kingston Dwight
-date: 2020-03-10 00:05:00 -0400
+date: 2020-02-22 00:05:00 -0500
 
 ---
 **Senior Manager Information Technology Compliance–Health Care Technology**
