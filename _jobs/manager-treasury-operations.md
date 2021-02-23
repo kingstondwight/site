@@ -3,7 +3,7 @@ layout: jobs
 title: Director of Tax
 email: jhyde@kingstondwight.com
 banner: Contact Joe Hyde, Partner, Kingston Dwight
-date: 2020-03-10T00:25:00.000-04:00
+date: 2020-02-22 00:25:00 -0500
 
 ---
                                        **Director of Tax**
