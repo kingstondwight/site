@@ -3,10 +3,9 @@ layout: jobs
 title: 'Vice President Finance & Administration '
 email: jhyde@kingstondwight.com
 banner: Contact Joe Hyde, Partner, Kingston Dwight
-date: 2020-03-10 01:09:00 -0400
+date: 2020-02-22 01:09:00 -0500
 
 ---
-
 **Vice President Finance & Administration- Boston, MA**
 
 A growing software as a service provider seeks a Vice President Finance & Administration to be responsible for financial planning and analysis, business finance partnering, budgeting, forecasting, financial statement preparation and strategy support.
