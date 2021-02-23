@@ -3,7 +3,7 @@ layout: jobs
 title: 'Senior Analyst '
 email: jhyde@kingstondwight.com
 banner: Contact Joe Hyde, Partner, Kingston Dwight
-date: 
+date: 2021-02-22 00:00:00 -0500
 
 ---
 Senior Analyst 
