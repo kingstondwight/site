@@ -3,10 +3,10 @@ layout: jobs
 title: CFO 2nd
 email: jhyde@kingstondwight.com
 banner: Contact Joe Hyde, Partner, Kingston Dwight
-date: 2021-03-16 00:00:00 -0400
+date: 2021-03-15 00:00:00 -0400
 
 ---
-CHIEF FINANCIAL OFFICER second
+CHIEF FINANCIAL OFFICER second.
 
 **Strategy, Planning and Management**
 
