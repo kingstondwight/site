@@ -7,7 +7,7 @@ date: 2020-02-22 01:09:00 -0500
 published: false
 
 ---
-**Vice President Finance & Administration- Boston, MA**
+**Vice President Finance & Administration- Boston, MA** !!
 
 A growing software as a service provider seeks a Vice President Finance & Administration to be responsible for financial planning and analysis, business finance partnering, budgeting, forecasting, financial statement preparation and strategy support.
 
