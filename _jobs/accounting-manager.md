@@ -3,8 +3,7 @@ layout: jobs
 title: 'Accounting Manager '
 email: jhyde@kingstondwight.com
 banner: Contact Joe Hyde, Partner, Kingston Dwight
-date: 2021-02-23 00:00:00 -0500
-published: false
+date: 2021-02-23T00:00:00.000-05:00
 
 ---
 **Accounting Manager- Construction** 
