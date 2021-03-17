@@ -6,7 +6,7 @@ description: ''
 title: 'Manager External Reporting '
 
 ---
-MANAGER EXTERNAL REPORTING
+MANAGER EXTERNAL REPORTING - (bill edit)
 
 Our client is a high tech, global public company located in the metro west area. The company is very well managed, has strong financial fundamentals and an entertaining culture.
 
