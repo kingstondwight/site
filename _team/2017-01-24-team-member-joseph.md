@@ -1,6 +1,6 @@
 ---
 layout: team-post
-title: 9Joseph Hyde (Test)
+title: Joseph Hyde (Test)
 position: Managing Director
 email: jhyde@kingstondwight.com
 image: "/img/team/PortraitJoe.png"
